@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Douglas-J-Johnson/module3-frontend#readme",
   "dependencies": {
-    "cypress": "^4.1.0"
+    "cypress": "^4.5.0"
   }
 }
